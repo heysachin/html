@@ -103,7 +103,7 @@ body .logoBottom img {width: 122px; height: auto;}
 </head>
 <body style='margin: 0; padding: 0;'>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module1'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td align='center'>
 		
@@ -124,7 +124,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tbody><tr>
 											<td height='50' valign='middle' align='center' width='100%' class='fullCenter' style='line-height: 1px;'>
 												<a href='#' style='text-decoration: none;'> 
-													<img src='images/logo.png' width='122' alt='' border='0' class='hover' mc:edit='1'>
+													<img src='images/logo.png' width='122' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -140,7 +140,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Nav --> 
 									<table width='310' border='0' cellpadding='0' cellspacing='0' align='right' style='text-align: right; font-size: 13px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 										<tbody><tr>
-											<td height='50' valign='middle' width='100%' style='font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #282828; font-weight: 700;' mc:edit='2'>
+											<td height='50' valign='middle' width='100%' style='font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #282828; font-weight: 700;'>
 												<a href='#' style='text-decoration: none; color: #282828;' class='underline'>Pricing</a>
 												 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 												 <a href='#' style='text-decoration: none; color: #282828;' class='underline'>Marketing</a>
@@ -168,7 +168,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module2'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td align='center' valign='top'>
 		
@@ -196,7 +196,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td height='10' width='100%' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 													</tr>
 													<tr>
-														<td width='100%' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 30px; font-weight: 800; vertical-align: top; font-size: 24px; text-align: left; padding-top: 3px; text-transform: uppercase; word-break: break-word;' class='fullCenter' mc:edit='3'>
+														<td width='100%' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 30px; font-weight: 800; vertical-align: top; font-size: 24px; text-align: left; padding-top: 3px; text-transform: uppercase; word-break: break-word;' class='fullCenter'>
 															Marketing / sales
 														</td>
 													</tr>
@@ -204,7 +204,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td height='20' width='100%' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 													</tr>
 													<tr>
-														<td width='100%' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 22px; font-weight: 400; vertical-align: top; font-size: 13px; text-align: left; padding-top: 3px;' class='fullCenter' mc:edit='4'>
+														<td width='100%' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 22px; font-weight: 400; vertical-align: top; font-size: 13px; text-align: left; padding-top: 3px;' class='fullCenter'>
 															Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh..
 														</td>
 													</tr>
@@ -220,7 +220,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='250'>
 																		<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full'>
 																			<tbody><tr>
-																				<td width='250' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 30px; font-weight: 400; vertical-align: top; font-size: 13px; text-align: left; padding-top: 3px;' class='fullCenter' mc:edit='5'>
+																				<td width='250' style='color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; line-height: 30px; font-weight: 400; vertical-align: top; font-size: 13px; text-align: left; padding-top: 3px;' class='fullCenter'>
 																					
 																					<span style='color: #919191; font-size: 16px;'>●</span>&nbsp; 1 Layered PSD File.
 																					<br>
@@ -246,7 +246,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														
 															<table border='0' cellpadding='0' cellspacing='0' align='left' class='buttonScale'>
 																<tbody><tr>
-																	<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='6'>
+																	<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 																		<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Purchase Now</a>
 																	</td>
 																</tr>
@@ -267,7 +267,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<table width='310' border='0' cellpadding='0' cellspacing='0' align='right' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
 											<td width='100%' align='center' class='image310' style='line-height: 1px; display: block;'>
-												<a href='#' style='text-decoration: none;'><img src='images/image_310px.png' width='310' alt='' border='0' class='hover' id='animate' style='display: block;' mc:edit='7'></a>
+												<a href='#' style='text-decoration: none;'><img src='images/image_310px.png' width='310' alt='' border='0' class='hover' id='animate' style='display: block;'></a>
 											</td>
 										</tr>
 									</tbody></table>
@@ -284,7 +284,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#489c97'mc:repeatable='module3'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#489c97'>
 	<tbody><tr>
 		<td align='center' valign='top'>
 		
@@ -298,7 +298,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </tbody></table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module4'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 			
@@ -319,7 +319,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='8'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Startup Marketing Newsletter
 											</td>
 										</tr>
@@ -339,7 +339,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='16'></td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='9'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 												Nullam quis risus eget urna mollis ornare vel eu leo. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla.
 											</td>
 										</tr>
@@ -362,7 +362,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='154' align='center' class='image154'>
 												<table width='154' border='0' cellpadding='0' cellspacing='0' align='center'>
 													<tbody><tr>
-														<td width='154' height='auto' style='text-align: center;' mc:edit='10'>
+														<td width='154' height='auto' style='text-align: center;'>
 															<a href='#' style='text-decoration: none;'>
 																<img src='images/image_154px_1.png' width='154' alt='' border='0'>
 															</a>
@@ -375,7 +375,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='20' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter' mc:edit='11'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter'>
 												Think
 											</td>
 										</tr>
@@ -395,7 +395,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='154' height='auto' style='text-align: center;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_154px_1.png' width='154' alt='' border='0' mc:edit='12'>
+																<img src='images/image_154px_1.png' width='154' alt='' border='0'>
 															</a>
 														</td>
 													</tr>
@@ -406,7 +406,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='20' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter' mc:edit='13'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter'>
 												DESIGN
 											</td>
 										</tr>
@@ -426,7 +426,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='154' height='auto' style='text-align: center;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_154px_3.png' width='154' alt='' border='0' mc:edit='14'>
+																<img src='images/image_154px_3.png' width='154' alt='' border='0'>
 															</a>
 														</td>
 													</tr>
@@ -437,7 +437,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='20' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter' mc:edit='15'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 16px; color: #30353a; line-height: 24px; font-weight: 600; text-transform: uppercase;' class='fullCenter'>
 												CODE
 											</td>
 										</tr>
@@ -461,7 +461,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'mc:repeatable='module5'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'>
 	<tbody><tr>
 		<td width='100%' align='center' valign='top' style='background-image: url('images/divider.png'); background-position: center center; background-repeat: repeat-x;'>
 		
@@ -475,7 +475,7 @@ body .logoBottom img {width: 122px; height: auto;}
 				<tbody><tr>
 					<td width='40' valign='top' height='13' align='center' style='line-height: 1px; display: block;'>
 						<a href='#' style='text-decoration: none;' class='rotator'>
-							<img src='images/heart_icon.png' style='display: block;' width='31' alt='' border='0' mc:edit='16'>
+							<img src='images/heart_icon.png' style='display: block;' width='31' alt='' border='0'>
 						</a>
 					</td>
 				</tr>
@@ -492,7 +492,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'mc:repeatable='module6'> 
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'> 
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 			
@@ -517,7 +517,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tr>
 											<td width='100%' align='center' class='image274' style='line-height: 1px;'>
 												<a href='#' style='text-decoration: none;'>
-													<img src='images/image_274px.png' width='274' alt='' border='0' class='hover' mc:edit='17'>
+													<img src='images/image_274px.png' width='274' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -532,7 +532,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table width='280' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 													<tbody><tr>
-														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='18'>
+														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															What You Need to Know...
 														</td>
 													</tr>
@@ -540,7 +540,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td width='100%' height='30' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 													</tr>
 													<tr>
-														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='19'>
+														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 															Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 														</td>
 													</tr>
@@ -558,7 +558,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/count_icon1.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='20'>
+																<img src='images/count_icon1.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 															</a>
 														</td>
 													</tr>
@@ -572,7 +572,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table width='230' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 													<tbody><tr>
-														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='21'>
+														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 															Nullam quis risus eget urna mollis 
 														</td>
 													</tr>
@@ -590,7 +590,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/count_icon2.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='22'>
+																<img src='images/count_icon2.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 															</a>
 														</td>
 													</tr>
@@ -604,7 +604,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table width='230' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 													<tbody><tr>
-														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='23'>
+														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 															Nullam quis risus eget urna mollis
 														</td>
 													</tr>
@@ -622,7 +622,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/count_icon3.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='24'>
+																<img src='images/count_icon3.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 															</a>
 														</td>
 													</tr>
@@ -636,7 +636,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table width='230' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 													<tbody><tr>
-														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='25'>
+														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 															Nullam quis risus eget urna mollis 
 														</td>
 													</tr>
@@ -654,7 +654,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/count_icon4.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='26'>
+																<img src='images/count_icon4.png' width='27' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 															</a>
 														</td>
 													</tr>
@@ -668,7 +668,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table width='230' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 													<tbody><tr>
-														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='27'>
+														<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 															Nullam quis risus eget urna mollis
 														</td>
 													</tr>
@@ -699,7 +699,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='center' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='28'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Call to Action</a>
 														</td>
 													</tr>
@@ -727,7 +727,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module7'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -750,7 +750,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tbody><tr>
 											<td width='100%' align='center' class='image560' style='line-height: 1px;'>
 												<a href='#' style='text-decoration: none;'>
-													<img src='images/image_560px.jpg' width='560' alt='' border='0' class='hover' mc:edit='29'>
+													<img src='images/image_560px.jpg' width='560' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -758,7 +758,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='40' style='font-size: 1px; line-height: 1px;' class='h30'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 24px; color: #ffffff; line-height: 34px; font-weight: 800;' class='fullCenter' mc:edit='30'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 24px; color: #ffffff; line-height: 34px; font-weight: 800;' class='fullCenter'>
 												Video Marketing 2016
 											</td>
 										</tr>
@@ -778,7 +778,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='16'></td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400; word-break: break-word;' class='fullCenter' mc:edit='31'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400; word-break: break-word;' class='fullCenter'>
 												Nullam quis risus eget urna mollis ornare vel eu leo. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla.
 												<br>
 												<a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>http://www.youtube.com/bussiness.mp4</a>
@@ -804,7 +804,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module8'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -825,7 +825,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='32'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Our Latest News
 											</td>
 										</tr>
@@ -869,7 +869,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_1.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top;' mc:edit='33'>
+																			<img src='images/icon_35px_1.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top;'>
 																		</a>
 																	</td>
 																</tr>
@@ -883,7 +883,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='34'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Boost your sales 
 																	</td>
 																</tr>
@@ -899,7 +899,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='35'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -937,7 +937,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_2.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='36'>
+																			<img src='images/icon_35px_2.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 																		</a>
 																	</td>
 																</tr>
@@ -951,7 +951,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='37'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Think outside the box
 																	</td>
 																</tr>
@@ -967,7 +967,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='38'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -1013,7 +1013,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_3.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='39'>
+																			<img src='images/icon_35px_3.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 																		</a>
 																	</td>
 																</tr>
@@ -1027,7 +1027,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='40'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Explore pay-per-click
 																	</td>
 																</tr>
@@ -1043,7 +1043,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='41'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -1081,7 +1081,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_4.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='42'>
+																			<img src='images/icon_35px_4.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 																		</a>
 																	</td>
 																</tr>
@@ -1095,7 +1095,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='43'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Retweet and engage
 																	</td>
 																</tr>
@@ -1111,7 +1111,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='44'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -1157,7 +1157,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_5.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='45'>
+																			<img src='images/icon_35px_5.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 																		</a>
 																	</td>
 																</tr>
@@ -1171,7 +1171,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='46'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Give Your Stuff Away
 																	</td>
 																</tr>
@@ -1187,7 +1187,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='47'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -1225,7 +1225,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' class='fullCenter'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/icon_35px_6.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;' mc:edit='48'>
+																			<img src='images/icon_35px_6.png' width='35' height='auto' alt='' border='0' class='hover' style='vertical-align: top; padding-top: 2px;'>
 																		</a>
 																	</td>
 																</tr>
@@ -1239,7 +1239,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='183' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='49'>
+																	<td width='100%' height='36' valign='middle' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 																		Trim your subjects
 																	</td>
 																</tr>
@@ -1255,7 +1255,7 @@ body .logoBottom img {width: 122px; height: auto;}
 															
 															<table width='240' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																<tbody><tr>
-																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='50'>
+																	<td width='100%' height='30' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 																		Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet.. <a href='#' style='text-decoration: none; color: #489c97; font-weight: 600;' class='underline'>Read more</a>
 																	</td>
 																</tr>
@@ -1290,7 +1290,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module9'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -1311,7 +1311,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #ffffff; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='51'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #ffffff; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Meet the Company Team
 											</td>
 										</tr>
@@ -1348,7 +1348,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' align='left' class='image197' style='line-height: 1px; padding-right: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_198px_1.jpg' width='197' alt='' border='0' class='hover' mc:edit='52'>
+																<img src='images/image_198px_1.jpg' width='197' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -1372,7 +1372,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tbody><tr>
 														<td width='100%' align='left' class='image197' style='line-height: 1px; padding-right: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_198px_3.jpg' width='197' alt='' border='0' class='hover' mc:edit='53'>
+																<img src='images/image_198px_3.jpg' width='197' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -1401,7 +1401,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Image 275px - 1 -->
 									<table width='275' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='54'>
+											<td valign='middle' width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' class='fullCenter'>
 												Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel tristique elit vestibulum mattis.
 											</td>
 										</tr>
@@ -1433,7 +1433,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	
 																		<table width='100%' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																			<tbody><tr>
-																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;' mc:edit='55'>
+																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;'>
 																					Marketing
 																				</td>
 																			</tr>
@@ -1468,7 +1468,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	
 																		<table width='100%' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																			<tbody><tr>
-																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;' mc:edit='56'>
+																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;'>
 																					Business
 																				</td>
 																			</tr>
@@ -1503,7 +1503,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	
 																		<table width='100%' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 																			<tbody><tr>
-																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;' mc:edit='57'>
+																				<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 600; text-transform: uppercase;'>
 																					Strategy
 																				</td>
 																			</tr>
@@ -1558,7 +1558,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'mc:repeatable='module10'> 
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'> 
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 			
@@ -1580,7 +1580,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tbody><tr>
 											<td width='100%' align='center' class='image228' style='line-height: 1px;'>
 												<a href='#' style='text-decoration: none;'>
-													<img src='images/image_228px_1.png' width='228' alt='' border='0' class='hover' mc:edit='58'>
+													<img src='images/image_228px_1.png' width='228' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -1591,7 +1591,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='330' border='0' cellpadding='0' cellspacing='0' align='right' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 										<tbody><tr>
-											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='59'>
+											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 												works all the time for every business
 											</td>
 										</tr>
@@ -1599,7 +1599,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='30' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='60'>
+											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 												Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis.
 											</td>
 										</tr>
@@ -1611,7 +1611,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='left' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='61'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Call to Action</a>
 														</td>
 													</tr>
@@ -1639,7 +1639,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'mc:repeatable='module11'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'>
 	<tbody><tr>
 		<td width='100%' align='center' valign='top' style='background-image: url('images/divider.png'); background-position: center center; background-repeat: repeat-x;' background='images/divider.png'>
 		
@@ -1656,7 +1656,7 @@ body .logoBottom img {width: 122px; height: auto;}
 				<tr>
 					<td width='40' valign='top' height='13' align='center' style='line-height: 1px; display: block;'>
 						<a href='#' style='text-decoration: none;' class='rotator'>
-							<img src='images/heart_icon.png' style='display: block;' width='31' alt='' border='0' mc:edit='62'>
+							<img src='images/heart_icon.png' style='display: block;' width='31' alt='' border='0'>
 						</a>
 					</td>
 				</tr>
@@ -1673,7 +1673,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'mc:repeatable='module12'> 
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff'> 
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 			
@@ -1695,7 +1695,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tbody><tr>
 											<td width='100%' align='center' class='image228' style='line-height: 1px;'>
 												<a href='#' style='text-decoration: none;'>
-													<img src='images/image_228px_2.png' width='228' alt='' border='0' class='hover' mc:edit='63'>
+													<img src='images/image_228px_2.png' width='228' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -1706,7 +1706,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='330' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='full'>
 										<tbody><tr>
-											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='64'>
+											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; color: #2f353a; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 												Call tracking and analytics
 											</td>
 										</tr>
@@ -1714,7 +1714,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='30' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter' mc:edit='65'>
+											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 22px; font-weight: 400;' class='fullCenter'>
 												Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Sed posuere consectetur est at lobortis.
 											</td>
 										</tr>
@@ -1726,7 +1726,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='left' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='66'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Call to Action</a>
 														</td>
 													</tr>
@@ -1754,7 +1754,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module13'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -1777,7 +1777,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='50%' style='text-align: center;'>
 												<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='67'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															284
 														</td>
 													</tr>
@@ -1785,7 +1785,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td width='100%' height='15'></td>
 													</tr>
 													<tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='68'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															New clients
 														</td>
 													</tr>
@@ -1794,7 +1794,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='50%' class='image135' style='text-align: center;'>
 												<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='69'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															125
 														</td>
 													</tr>
@@ -1802,7 +1802,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td width='100%' height='15'></td>
 													</tr>
 													<tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='70'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															Projects Finished
 														</td>
 													</tr>
@@ -1823,7 +1823,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='50%' style='text-align: center;'>
 												<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='71'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															17
 														</td>
 													</tr>
@@ -1831,7 +1831,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td width='100%' height='15'></td>
 													</tr>
 													<tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='72'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															New Items
 														</td>
 													</tr>
@@ -1840,7 +1840,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='50%' class='image135' style='text-align: center;'>
 												<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='73'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 32px; color: #ffffff; line-height: 36px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															1000+
 														</td>
 													</tr>
@@ -1848,7 +1848,7 @@ body .logoBottom img {width: 122px; height: auto;}
 														<td width='100%' height='15'></td>
 													</tr>
 													<tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='74'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															New Ideas
 														</td>
 													</tr>
@@ -1875,7 +1875,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module14'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -1896,7 +1896,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='75'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Projects We Finished
 											</td>
 										</tr>
@@ -1931,7 +1931,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%'>
 												<table width='217' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='76'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Free Mockups
 														</td>
 													</tr>
@@ -1951,7 +1951,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='77'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Business Cards
 														</td>
 													</tr>
@@ -1961,7 +1961,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_1.png' width='189' alt='' border='0' class='hover' mc:edit='78'>
+																<img src='images/image_189px_1.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -1971,7 +1971,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='79'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Custom Labels
 														</td>
 													</tr>
@@ -1981,7 +1981,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_2.png' width='189' alt='' border='0' class='hover' mc:edit='80'>
+																<img src='images/image_189px_2.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2011,7 +2011,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module14-2'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2036,7 +2036,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%'>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='81'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Online Tutorials
 														</td>
 													</tr>
@@ -2046,7 +2046,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_3.png' width='189' alt='' border='0' class='hover' mc:edit='82'>
+																<img src='images/image_189px_3.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2056,7 +2056,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='83'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Personal Cards
 														</td>
 													</tr>
@@ -2066,7 +2066,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_4.png' width='189' alt='' border='0' class='hover' mc:edit='84'>
+																<img src='images/image_189px_4.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2076,7 +2076,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='217' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='85'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															presentation mockups
 														</td>
 													</tr>
@@ -2086,7 +2086,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image217' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_217px_2.jpg' width='217' alt='' border='0' class='hover' mc:edit='86'>
+																<img src='images/image_217px_2.jpg' width='217' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2116,7 +2116,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module14-3'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2140,7 +2140,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%'>
 												<table width='217' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='87'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Smart layers
 														</td>
 													</tr>
@@ -2150,7 +2150,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image217' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_217px_3.jpg' width='217' alt='' border='0' class='hover' mc:edit='88'>
+																<img src='images/image_217px_3.jpg' width='217' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2160,7 +2160,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='89'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Branding Mockups
 														</td>
 													</tr>
@@ -2170,7 +2170,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_5.png' width='189' alt='' border='0' class='hover' mc:edit='90'>
+																<img src='images/image_189px_5.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2180,7 +2180,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												</tbody></table>
 												<table width='189' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='91'>
+														<td width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #212222; line-height: 24px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 															Company Cards
 														</td>
 													</tr>
@@ -2190,7 +2190,7 @@ body .logoBottom img {width: 122px; height: auto;}
 													<tr>
 														<td width='100%' align='center' class='image189' style='line-height: 1px;'>
 															<a href='#' style='text-decoration: none;'>
-																<img src='images/image_189px_6.png' width='189' alt='' border='0' class='hover' mc:edit='92'>
+																<img src='images/image_189px_6.png' width='189' alt='' border='0' class='hover'>
 															</a>
 														</td>
 													</tr>
@@ -2220,7 +2220,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module14-4'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2239,7 +2239,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='center' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='93'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>View All Projects</a>
 														</td>
 													</tr>
@@ -2267,7 +2267,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module15'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2288,7 +2288,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #ffffff; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='94'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #ffffff; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Some Important Tweets
 											</td>
 										</tr>
@@ -2334,7 +2334,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400; vertical-align: top;' class='icon52'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover' mc:edit='95'>
+																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2347,7 +2347,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' class='icon22'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover' mc:edit='96'>
+																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2355,7 +2355,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='15' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' mc:edit='97'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;'>
 																		<span style='font-weight: 700;'>Twitter Name</span> @Twitter_Name - 25 Aug.
 																	</td>
 																</tr>
@@ -2363,7 +2363,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='5' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' mc:edit='98'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;'>
 																		<span style='font-weight: 700; color: #489c97;'>@BusinessTemplate</span> Please join us for <span style='font-weight: 700; color: #489c97;'>#Marketing</span> meeting tomorrow at 7pm GMT.The topic is: 'accessibility at visitor attractions' <a href='#' style='font-weight: 700; color: #489c97; text-decoration: none;' class='underline'>http://bit.ly/1eeEna1Ho</a>
 																	</td>
 																</tr>
@@ -2394,7 +2394,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module15-2'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2423,7 +2423,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400; vertical-align: top;' class='icon52'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover' mc:edit='99'>
+																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2436,7 +2436,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' class='icon22'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover' mc:edit='100'>
+																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2444,7 +2444,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='15' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' mc:edit='101'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;'>
 																		<span style='font-weight: 700;'>Twitter Name</span> @Twitter_Name - 25 Aug.
 																	</td>
 																</tr>
@@ -2452,7 +2452,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='5' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' mc:edit='102'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;'>
 																		<span style='font-weight: 700; color: #489c97;'>@BusinessTemplate</span> Please join us for <span style='font-weight: 700; color: #489c97;'>#Marketing</span> meeting tomorrow at 7pm GMT.The topic is: 'accessibility at visitor attractions' <a href='#' style='font-weight: 700; color: #489c97; text-decoration: none;' class='underline'>http://bit.ly/1eeEna1Ho</a>
 																	</td>
 																</tr>
@@ -2483,7 +2483,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module15-3'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2512,7 +2512,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400; vertical-align: top;' class='icon52'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover' mc:edit='103'>
+																			<img src='images/twitter_avatar_52px.png' width='52' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2525,7 +2525,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																<tbody><tr>
 																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' class='icon22'>
 																		<a href='#' style='text-decoration: none;'>
-																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover' mc:edit='104'>
+																			<img src='images/twitter_icon_22px.png' width='22' alt='' border='0' class='hover'>
 																		</a>
 																	</td>
 																</tr>
@@ -2533,7 +2533,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='15' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;' mc:edit='105'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 22px; font-weight: 400;'>
 																		<span style='font-weight: 700;'>Twitter Name</span> @Twitter_Name - 25 Aug.
 																	</td>
 																</tr>
@@ -2541,7 +2541,7 @@ body .logoBottom img {width: 122px; height: auto;}
 																	<td width='100%' height='5' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 																</tr>
 																<tr>
-																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;' mc:edit='106'>
+																	<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #ffffff; line-height: 24px; font-weight: 400;'>
 																		<span style='font-weight: 700; color: #489c97;'>@BusinessTemplate</span> Please join us for <span style='font-weight: 700; color: #489c97;'>#Marketing</span> meeting tomorrow at 7pm GMT.The topic is: 'accessibility at visitor attractions' <a href='#' style='font-weight: 700; color: #489c97; text-decoration: none;' class='underline'>http://bit.ly/1eeEna1Ho</a>
 																	</td>
 																</tr>
@@ -2572,7 +2572,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module15-4'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2594,7 +2594,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </tbody></table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module16'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 							
@@ -2615,7 +2615,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									<!-- Headline -->
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align: center;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter' mc:edit='107'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 22px; color: #30353a; line-height: 30px; font-weight: 800;' class='fullCenter'>
 												Most Popular Hosting Plans
 											</td>
 										</tr>
@@ -2635,7 +2635,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='16'></td>
 										</tr>
 										<tr>
-											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='108'>
+											<td valign='middle' width='100%' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; color: #9d9d9d; line-height: 24px; font-weight: 400;' class='fullCenter'>
 												Nullam quis risus eget urna mollis ornare vel eu leo. Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla.
 											</td>
 										</tr>
@@ -2662,7 +2662,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='290' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse: collapse; background-color: #30353a;' class='fullCenter' bgcolor='#30353a'>
 										<tbody><tr>
-											<td width='100%' style='text-align: center; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; line-height: 24px; padding: 0px 5px; font-weight: 800; text-transform: uppercase;' mc:edit='109'>
+											<td width='100%' style='text-align: center; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; line-height: 24px; padding: 0px 5px; font-weight: 800; text-transform: uppercase;'>
 												Optimum
 											</td>
 										</tr>
@@ -2676,12 +2676,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='20' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 26px; line-height: 30px; padding: 2px 5px; font-weight: 700;' mc:edit='110'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 26px; line-height: 30px; padding: 2px 5px; font-weight: 700;'>
 												$9.00
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 20px; padding: 2px 5px; font-weight: 600; font-style: italic;' mc:edit='111'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 20px; padding: 2px 5px; font-weight: 600; font-style: italic;'>
 												*per month
 											</td>
 										</tr>
@@ -2695,12 +2695,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='112'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Web storage
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='113'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												1 GB
 											</td>
 										</tr>
@@ -2714,12 +2714,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='114'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												FTP Accounts
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='115'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												5
 											</td>
 										</tr>
@@ -2733,12 +2733,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='116'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Email Addresses
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='117'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												10
 											</td>
 										</tr>
@@ -2752,12 +2752,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='118'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Hosted Domains
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='119'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												3
 											</td>
 										</tr>
@@ -2777,7 +2777,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='center' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='120'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Buy Now</a>
 														</td>
 													</tr>
@@ -2818,7 +2818,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='290' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse: collapse; background-color: #30353a;' class='fullCenter' bgcolor='#30353a'>
 										<tbody><tr>
-											<td width='100%' style='text-align: center; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; line-height: 24px; padding: 0px 5px; font-weight: 800; text-transform: uppercase;' mc:edit='121'>
+											<td width='100%' style='text-align: center; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 18px; line-height: 24px; padding: 0px 5px; font-weight: 800; text-transform: uppercase;'>
 												Business
 											</td>
 										</tr>
@@ -2832,12 +2832,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='20' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 26px; line-height: 30px; padding: 2px 5px; font-weight: 700;' mc:edit='122'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 26px; line-height: 30px; padding: 2px 5px; font-weight: 700;'>
 												$29.00
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 20px; padding: 2px 5px; font-weight: 600; font-style: italic;' mc:edit='123'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 20px; padding: 2px 5px; font-weight: 600; font-style: italic;'>
 												*per month
 											</td>
 										</tr>
@@ -2851,12 +2851,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='124'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Web storage
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='125'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												5 GB
 											</td>
 										</tr>
@@ -2870,12 +2870,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='126'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												FTP Accounts
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='127'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												10
 											</td>
 										</tr>
@@ -2889,12 +2889,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='128'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Email Addresses
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='129'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												25
 											</td>
 										</tr>
@@ -2908,12 +2908,12 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='13' style='font-size: 1px; line-height: 1px;'>&nbsp;</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;' mc:edit='130'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; line-height: 18px; padding: 2px 5px; font-weight: 400;'>
 												Hosted Domains
 											</td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;' mc:edit='131'>
+											<td width='100%' style='text-align: center; color: #30353a; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; padding: 2px 5px; font-weight: 700;'>
 												10
 											</td>
 										</tr>
@@ -2933,7 +2933,7 @@ body .logoBottom img {width: 122px; height: auto;}
 												
 												<table border='0' cellpadding='0' cellspacing='0' align='center' class='buttonScale'>
 													<tbody><tr>
-														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;' mc:edit='132'>
+														<td align='center' height='36' bgcolor='#489c97' style='-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding-left: 20px; padding-right: 20px; font-weight: 700; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; color: #ffffff; text-transform: uppercase;'>
 															<a href='#' style='color: #ffffff; font-size: 12px; text-decoration: none; line-height: 28px;'>Buy Now</a>
 														</td>
 													</tr>
@@ -2967,7 +2967,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'mc:repeatable='module17'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#30353a' style='background-color: #30353a;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -2989,7 +2989,7 @@ body .logoBottom img {width: 122px; height: auto;}
 										<tbody><tr>
 											<td width='100%' class='logoBottom'>
 												<a href='#' style='text-decoration: none;'>
-													<img src='images/logo_footer.png' width='112' alt='' border='0' class='hover' mc:edit='133'>
+													<img src='images/logo_footer.png' width='112' alt='' border='0' class='hover'>
 												</a>
 											</td>
 										</tr>
@@ -3002,14 +3002,14 @@ body .logoBottom img {width: 122px; height: auto;}
 												<table width='30' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
-															<a href='#' style='text-decoration: none;'><img src='images/tel_icon.png' width='14' alt='' border='0' mc:edit='134'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/tel_icon.png' width='14' alt='' border='0'></a>
 														</td>
 													</tr>
 												</tbody></table>
 												
 												<table width='165' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='135'>
+														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															+123 456 789 00
 														</td>
 													</tr>
@@ -3023,14 +3023,14 @@ body .logoBottom img {width: 122px; height: auto;}
 												<table width='30' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 													<tbody><tr>
 														<td width='100%' class='fullCenter'>
-															<a href='#' style='text-decoration: none;'><img src='images/mail_icon.png' width='14' alt='' border='0' mc:edit='136'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/mail_icon.png' width='14' alt='' border='0'></a>
 														</td>
 													</tr>
 												</tbody></table>
 												
 												<table width='165' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 													<tbody><tr>
-														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='137'>
+														<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 															<a href='#' style='text-decoration: none; color: #ffffff;' class='underline'>info@youremail.com</a>
 														</td>
 													</tr>
@@ -3048,7 +3048,7 @@ body .logoBottom img {width: 122px; height: auto;}
 					
 									<table width='220' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 										<tbody><tr>
-											<td width='100%' style='text-align: left; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='138'>
+											<td width='100%' style='text-align: left; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 												Information
 											</td>
 										</tr>
@@ -3056,7 +3056,7 @@ body .logoBottom img {width: 122px; height: auto;}
 											<td width='100%' height='30' class='h20'></td>
 										</tr>
 										<tr>
-											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter' mc:edit='139'>
+											<td width='100%' style='text-align: left; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #ffffff; line-height: 24px; font-weight: 400;' class='fullCenter'>
 												Nullam quis risus eget urna mollis ornare vel eu leo. Curabitur blandit tempus. Copyright DynamicXX
 											</td>
 										</tr>
@@ -3070,7 +3070,7 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='150' border='0' cellpadding='0' cellspacing='0' align='right' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 										<tbody><tr>
-											<td width='100%' style='text-align: left; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; font-weight: 700; text-transform: uppercase;' class='fullCenter' mc:edit='140'>
+											<td width='100%' style='text-align: left; color: #ffffff; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 14px; line-height: 18px; font-weight: 700; text-transform: uppercase;' class='fullCenter'>
 												Social Media
 											</td>
 										</tr>
@@ -3082,19 +3082,19 @@ body .logoBottom img {width: 122px; height: auto;}
 												<table width='125' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='buttonScale'>
 													<tbody><tr>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_1.png' width='19' alt='' border='0' mc:edit='141'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_1.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_2.png' width='19' alt='' border='0' mc:edit='142'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_2.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_3.png' width='19' alt='' border='0' mc:edit='143'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_3.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_4.png' width='19' alt='' border='0' mc:edit='144'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_4.png' width='19' alt='' border='0'></a>
 														</td>
 													</tr>
 												</tbody></table>
@@ -3108,19 +3108,19 @@ body .logoBottom img {width: 122px; height: auto;}
 												<table width='125' border='0' cellpadding='0' cellspacing='0' align='left' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='buttonScale'>
 													<tbody><tr>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_5.png' width='19' alt='' border='0' mc:edit='145'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_5.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_6.png' width='19' alt='' border='0' mc:edit='146'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_6.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_7.png' width='19' alt='' border='0' mc:edit='147'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_7.png' width='19' alt='' border='0'></a>
 														</td>
 														<td width='15'>&nbsp;</td>
 														<td width='19' class='icon19'>
-															<a href='#' style='text-decoration: none;'><img src='images/social_icon_8.png' width='19' alt='' border='0' mc:edit='148'></a>
+															<a href='#' style='text-decoration: none;'><img src='images/social_icon_8.png' width='19' alt='' border='0'></a>
 														</td>
 													</tr>
 												</tbody></table>
@@ -3146,7 +3146,7 @@ body .logoBottom img {width: 122px; height: auto;}
 	</tr>
 </table>
 
-<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'mc:repeatable='module18'>
+<table width='100%' border='0' cellpadding='0' cellspacing='0' align='center' class='full' bgcolor='#ffffff' style='background-color: #ffffff;'>
 	<tbody><tr>
 		<td width='100%' valign='top' align='center'>
 		
@@ -3169,12 +3169,12 @@ body .logoBottom img {width: 122px; height: auto;}
 									
 									<table width='600' border='0' cellpadding='0' cellspacing='0' align='center' style='border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;' class='fullCenter'>
 										<tbody><tr>
-											<td valign='bottom' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #9d9d9d; line-height: 20px; font-weight: 400;' mc:edit='149'>
+											<td valign='bottom' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 12px; color: #9d9d9d; line-height: 20px; font-weight: 400;'>
 												If you no longer wish to receive the Business newsletter, simply click the unsubscribe link below.
 											</td>
 										</tr>
 										<tr>
-											<td valign='bottom' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #ffffff; line-height: 22px; font-weight: 700;' mc:edit='150'>
+											<td valign='bottom' style='text-align: center; font-family: Helvetica, Arial, sans-serif, 'Open Sans'; font-size: 13px; color: #ffffff; line-height: 22px; font-weight: 700;'>
 												<a href='#' style='color: #489c97; text-decoration: none;'>Unsubscribe</a>
 											</td>
 										</tr>
