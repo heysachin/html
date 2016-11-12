@@ -9,7 +9,7 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // Additional headers
-$headers .= 'From: Sachin Dev <sachindev@yahoo.com' . "\r\n";
+$headers .= 'From: Sachin<sachindev@yahoo.com>' . "\r\n";
 
 // Send email
 if(mail($to,$subject,$htmlContent,$headers)):
