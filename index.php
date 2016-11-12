@@ -1,5 +1,5 @@
 <?php
-$to = 'InsertYourEmailAddress';
+$to = 'hellosachindev@gmail.com';
 $subject = "Beautiful HTML Email using PHP by CodexWorld";
 // Get HTML contents from file
 $htmlContent = file_get_contents("email_template.html");
@@ -9,13 +9,12 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // Additional headers
-$headers .= 'From: CodexWorld<info@codexworld.com>' . "\r\n";
-$headers .= 'Cc: codexworld@gmail.com' . "\r\n";
+$headers .= 'From: Sachin Dev<sachindev@yahoo.com>' . "\r\n";
 
 // Send email
 if(mail($to,$subject,$htmlContent,$headers)):
-	$successMsg = 'Email has sent successfully.';
+	echo 'Email has sent successfully.';
 else:
-	$errorMsg = 'Some problem occurred, please try again.';
+	echo'Some problem occurred, please try again.';
 endif;
 ?>
