@@ -10,7 +10,7 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // Additional headers
 $headers .= "From: Sachin Dev<sachindev@yahoo.com>" . "\r\n";
-$headers .= 'Cc: ' . "\r\n";
+$headers .= 'Cc: hellosachindev@gmail.com' . "\r\n";
 
 // Send email
 if(mail($to,$subject,$htmlContent,$headers)):
