@@ -1,5 +1,5 @@
 <?php
-$to = 'sachindevprince@gmail.com';
+$to = 'hellosachindev@gmail.com';
 $subject = "Web HTML Template";
 // Get HTML contents from file
 $htmlContent = file_get_contents("email_template.html");
