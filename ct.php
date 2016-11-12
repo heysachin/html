@@ -9,12 +9,12 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 // Additional headers
-$headers .= 'From: Sachin<sachindev@yahoo.com' . "\r\n";
+$headers .= 'From: Sachin<sachindev@yahoo.com>' . "\r\n";
 
 // Send email
 if(mail($to,$subject,$htmlContent,$headers)):
-	$successMsg = 'Email has sent successfully.';
+	echo 'Email has sent successfully.';
 else:
-	$errorMsg = 'Some problem occurred, please try again.';
+	echo 'Some problem occurred, please try again.';
 endif;
 ?>
